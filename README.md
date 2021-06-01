@@ -3,5 +3,7 @@
 
 <h2>Simple React native UI using Flatlist and snap alignment when scrolling.</h2>
 
-![](readme-vid.mp4)
+https://user-images.githubusercontent.com/81640788/120312657-ebcd0480-c2d0-11eb-8614-dbbdb5cb06ac.mp4
+
+
 
